@@ -1,1 +1,1 @@
-FROM nvcr.io/nvidia/cuda:12.5.1-base-ubi8
+FROM nvcr.io/nvidia/cuda:11.7.1-base-ubi8
